@@ -1,5 +1,3 @@
-7-print_last_digit.c
-
 #include "main.h"
 
 /**
